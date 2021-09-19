@@ -2,13 +2,12 @@
 title: Codinfox Lanyon
 tagline: 'Welcome to my blog'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: "/home"
+baseurl:
 url: https://dingyunxing.github.io
 logo: '/public/logo.png'
 
 # Site configurations
-gems:
-  - jekyll-paginate
+gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM
@@ -19,9 +18,7 @@ sass:
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "page:num"
+
 
 version: 1.0.0
 
