@@ -8,6 +8,7 @@ tags: [python, syntax]
 ### What
 In a python function, we need to pass params but sometimes you may find two weird thing like `*args` or `**kwargs`. These two special charactors means we can pass  multiple arguments or keyword arguments to a function.
 
+<!-- more -->
 ### How
 Let's start a very simple example:
 ```

@@ -7,6 +7,7 @@ tags: [SQL, data]
 
 [SQL](https://www.w3schools.com/sql/), short for Structured Query Lanuguage, is widely used in proramming and desigined for managing data in a [relational database management system](https://en.wikipedia.org/wiki/Relational_database#RDBMS).
 
+<!-- more -->
 A very basic SQL query looks like this:
 ```
 select *
