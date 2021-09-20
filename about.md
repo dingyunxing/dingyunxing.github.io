@@ -4,27 +4,33 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## A bit of me
 
-There are currently two themes built on Poole:
+My name is James(Chinese: 云星, Pronunciation: [Yun](https://www.pronouncenames.com/search?name=Yun)[-Xing](https://www.pronouncenames.com/search?name=Xing)) Ding. I am a data scientist and a machine learning engineer who loves all the techniques around "Big Data". I am passionate about coding and always embracing the open source community. 
+
+I am currently working as a machine learning enginner [@Stroër Labs](https://jobs.stroeer-labs.com/new-zealand/) based in Christchurch, New Zealand. I am also lived here with my wife and a cute boy.
+
+For more, please see my [Linkedin Profile](https://www.linkedin.com/in/yunxing-ding-69949abb/).
+
+
+
+<!-- There are currently two themes built on Poole:
 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Learn more and contribute on [GitHub](https://github.com/poole). -->
 
-## Setup
+## Why this blog
 
-Some fun facts about the setup of this project include:
+This blog is a record of my life and learning path to be a dev. It also serves the purpose of helping people with similar issues as I had. I wish this blog could witness every step I take towards becoming a giant, and help many others to grow and make progress with me.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+## Contact
+Please feel free to contact me via any channels shared from my page.
 
 Thanks for reading!
