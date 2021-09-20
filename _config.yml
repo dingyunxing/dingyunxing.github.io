@@ -1,5 +1,5 @@
 # Site Info
-title: Codinfox Lanyon
+title: James Blog
 tagline: 'Life is short. Be grateful'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl:
@@ -20,7 +20,7 @@ paginate_path: '/blog/page:num'
 permalink: pretty
 
 
-version: 1.0.0
+version: 1.0.1
 
 # About/contact
 author:
