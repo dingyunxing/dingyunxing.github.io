@@ -33,7 +33,7 @@ author:
     # facebook:  <hide>
     twitter:   https://twitter.com/Yunxing_Ding
     weibo:     https://weibo.com/dingyunxinghengeili/home
-    email:     dingyunxing@gmail.com
+    email:     mailto:dingyunxing@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -58,6 +58,6 @@ hero:
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+google_analytics_token: 'UA-208056466-1' # leave blank if you don't want google analytics G-78LDPLJ28M
 disqus_short_name: 'dingyunxing' # leave blank if you don't want disqus
 
