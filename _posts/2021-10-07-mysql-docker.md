@@ -2,7 +2,7 @@
 layout: post
 title: How to install MySQL and MySQL workbench with docker compose
 category: Tutorial
-tags: [MySQL, docker]
+tags: [MySQL, Docker]
 ---
 
 ### Background
@@ -10,7 +10,7 @@ MySQL is one of the most popular open source relational database management syst
 <!-- more -->
 
 ### Steps
-#### 1. Install Docker
+### 1. Install Docker
 Docker is a software that use OS-level virtualization to deliver software in packages called containers.
 
 **Notes**: 
@@ -33,7 +33,7 @@ docker version
 If got some info then it means the docker has been successfully installed.
 
 
-#### 2. Start MySQL with docker-compose
+### 2. Start MySQL with docker-compose
 
 Create a new folder (can name `mysql-docker` for example) , inside the folder, create a new file called `docker-compose.yml`. Copy paste the code below into this .yml file
 ```
@@ -71,16 +71,33 @@ Now the mysql have been started. To test, just open a new terminal window and ty
 ```
 docker ps
 ```
+and should have seen a result like this:
+
+![](2021-10-07-1.png)
+
+The content highlighted is the name of the container and we can run the command to enter it
+```
+docker exec -it mysql-docker-compose_db_1 bash
+```
+
+Then type the command inside the container:
+```
+mysql -u username -p
+
+```
+
+Then type `password` to start mysql shell
 
 
-#### 3. Install the MySQL workbench
-Terminal is not that user-friendly for most of the people so we need a GUI to connect to the MySQL service.
+### 3. Install the MySQL workbench
+However, terminal/cmd is not that user-friendly for most of the cases so we also want a GUI to connect to the MySQL service which will be easier to communicate with the database.
 
-Download the latest version of the MySQL Workbench [here](https://dev.mysql.com/downloads/workbench/). Select the right OS version and download and install just similar to the Docker Desktop
+1. Download the latest version of the MySQL Workbench [here](https://dev.mysql.com/downloads/workbench/). Select the right OS version and download and install just similar to the Docker Desktop
 
-Start the Workbench afterwards and make a new connection like this:
+2. Start the Workbench afterwards and make a new connection with either user/root like this:
 ![](https://miro.medium.com/max/4800/1*VcfoGGvE6rtXsaykGxpvCw.png)
 
+3. click “OK” to jump to the password page:
 ![](https://miro.medium.com/max/4800/1*bcahaA-dWpHd16E-H5kGHg.png)
 
-Input password and click “OK” to connect.
+4. Input password and click “OK” to connect.
