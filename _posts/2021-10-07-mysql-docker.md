@@ -73,7 +73,7 @@ docker ps
 ```
 and should have seen a result like this:
 
-![](screenshots/2021-10-07-1.png)
+![](/public/screenshots/2021-10-07-1.png)
 
 The content highlighted is the name of the container and we can run the command to enter it
 ```
