@@ -11,7 +11,7 @@ title: About
 
 My name is James(Chinese: 云星, Pronunciation: [Yun](https://www.pronouncenames.com/search?name=Yun)[-Xing](https://www.pronouncenames.com/search?name=Xing)) Ding. I am a data scientist and a machine learning engineer who loves all the techniques around "Big Data". I am passionate about coding and always embracing the open source community. 
 
-I am currently working as a machine learning enginner [@Stroër Labs](https://jobs.stroeer-labs.com/new-zealand/) based in Christchurch, New Zealand. I am also lived here with my wife and a cute boy.
+I am currently working as a machine learning enginner [@Stroër Labs](https://jobs.stroeer-labs.com/new-zealand/) based in Christchurch, New Zealand. I am also living here with my wife and a cute boy.
 
 For more, please see my [Linkedin Profile](https://www.linkedin.com/in/yunxing-ding-69949abb/).
 
