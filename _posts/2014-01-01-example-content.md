@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Example content
-category: Dev
-tags: [web, python]
+category: Tutorial
+tags: [blog, markdown, jekyll]
 ---
 
 

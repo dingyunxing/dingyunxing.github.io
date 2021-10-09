@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Order of Basic SQL execution
-category: SQL
+category: Dev
 tags: [SQL, data]
 ---
 

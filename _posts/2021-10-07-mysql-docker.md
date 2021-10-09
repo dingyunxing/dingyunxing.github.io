@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to install MySQL and MySQL workbench with docker compose
+title: How to install MySQL and MySQL Workbench with docker compose
 category: Tutorial
-tags: [MySQL, Docker]
+tags: [MySQL, SQL, docker]
 ---
 
 ### Background
@@ -73,7 +73,7 @@ docker ps
 ```
 and should have seen a result like this:
 
-![](2021-10-07-1.png)
+![](screenshots/2021-10-07-1.png)
 
 The content highlighted is the name of the container and we can run the command to enter it
 ```
